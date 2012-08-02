@@ -97,6 +97,7 @@
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
     <I18N_FOLDERS number="1" string0="$MODULE_DIR$/config/locales" />
+    <OPTIONS NAME="SPORK_SERVER_LAST_USED_TEST_FR_OPTION" VALUE=":rspec " />
   </component>
 </module>
 
